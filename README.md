@@ -34,16 +34,24 @@
 </p>
 </br>
 </br>
-  
+
+## My GitHub Streak
+
+<p align="center">
+
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DeltaProxima&theme=tokyonight)](https://git.io/streak-stats)
-  
+</p>
 </br>
 
-## 📊 My Github Statistics
+## My Github Statistics
 
- 
+<p align="centre">
 
 ![Vighnesh Deshpande's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeltaProxima&show_icons=true&theme=tokyonight)
+
+</p>
+
+
 
 <br/>
 
@@ -52,8 +60,8 @@
 <br/>
 <br/>
 
-## Connect with me:
-<p align="Center">
+## Contact Me:
+<p align="center">
 <a href = "https://www.linkedin.com/in/vighnesh-deshpande-474846206/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.facebook.com/vighnesh.deshpande.12/"><img src="https://img.icons8.com/fluency/48/000000/facebook.png"/></a>
 <a href = "https://www.instagram.com/3802_vighnesh/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
