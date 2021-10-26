@@ -1,14 +1,16 @@
 <img src="images/back.jpg"/>
-<hr style=" solid gray"> </hr>
+<hr style="solid gray"></hr>
+
 <h1 align="center">Hola Amigos 😃, I'm Vighnesh </h1>
+
 <h4 align="center">Aka Delta Proxima </h4>
 
 
 ## About Me
 
-- I'm currently in Sophomore year of Electronics and Communication Engineering  at IIT Guwahati
-- I wish to contribute to Open Source Projects
-- I have worked on a few Development Projects at IIT Guwahati
+- I'm currently in Sophomore year of Electronics and Communication Engineering  at IIT Guwahati.
+- I wish to contribute to Open Source Projects.
+- I have worked on a few Development Projects at IIT Guwahati.
   
 </br>
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
@@ -22,7 +24,7 @@
 ## 🚀 Languages and Tools:
 </br>
 
-<p align="center"> 
+<p align ="center"> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
@@ -39,17 +41,13 @@
 
 <p align="center">
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DeltaProxima&theme=tokyonight)](https://git.io/streak-stats)
-</p>
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DeltaProxima&theme=tokyonight)](https://git.io/streak-stats)</p>
 </br>
 
 ## My Github Statistics
+<p align="center">
 
-<p align="centre">
-
-![Vighnesh Deshpande's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeltaProxima&show_icons=true&theme=tokyonight)
-
-</p>
+![Vighnesh Deshpande's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeltaProxima&show_icons=true&theme=tokyonight)</p>
 
 
 
